@@ -6,7 +6,7 @@ My name is Philip Loera but most people usually call Phil or Low.
 🎓Currently an Instructor teaching new recruits about Computer Hardware, Network Configuration of Cisco Routers/Switches, VMware Fundamentals, Windows 10 & Server 2016,
 Linux Redhat 6 and CentOS 10. 🎒
 
-💻 Spent most of my time has a System/Network admin working towards a Cybersecurity role 🔒.
+💻 Spent most of my time as a System/Network admin working towards a Cybersecurity role 🔒.
 
 ☁️ Found a liking to Javascript and Web Development. Wanted to pursue more into it to create and build cool stuff with my best friends💕.
 
