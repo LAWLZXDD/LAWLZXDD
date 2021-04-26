@@ -8,9 +8,11 @@ Limux Redhat 6 and CentOS 10. 🎒
 
 💻 Spent most of my time has a System/Network admin working towards a Cybersecurity role 🔒.
 
-☁️ Found a liking to Javascript and Web Development. Wanted to pursue more into it to create and build cool stuff with my best friends 💕.
+☁️ Found a liking to Javascript and Web Development. Wanted to pursue more into it to create and build cool stuff with my best friends💕.
 
 🔭 I’m currently working on project to upgrade our schoolhouse's intranet website to assist in student learning.
+
+⭐👉 🌎 am big jojo fan 🌏👈⭐
 
 <!--
 **LAWLZXDD/LAWLZXDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
