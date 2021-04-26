@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey Hey! 👋
+My name is Philip Loera but most people usually call Phil or Low.
+
+🎖️ Active Duty service member going on 10 years. Served with XVIII Airborne Corps(4 years) and 1st Special Forces Group(3 years).
+
+🎓Currently an Instructor teaching new recruits about Computer Hardware, Network Configuration of Cisco Routers/Switches, VMware Fundamentals, Windows 10 & Server 2016,
+Limux Redhat 6 and CentOS 10. 🎒
+
+💻 Spent most of my time has a System/Network admin working towards a Cybersecurity role 🔒.
+
+☁️ Found a liking to Javascript and Web Development. Wanted to pursue more into it to create and build cool stuff with my best friends 💕.
+
+🔭 I’m currently working on project to upgrade our schoolhouse's intranet website to assist in student learning.
 
 <!--
 **LAWLZXDD/LAWLZXDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
