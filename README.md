@@ -10,7 +10,7 @@ Linux Redhat 6 and CentOS 10. 🎒
 
 ☁️ Found a liking to Javascript and Web Development. Wanted to pursue more into it to create and build cool stuff with my best friends💕.
 
-🔭 I’m currently working on project to upgrade our schoolhouse's intranet website to assist in student learning.
+🔭 I’m currently working on projects to help me understand full stack engineering and dabbling in c# to familiarize myself with Object Oriented Programming.
 
 ⭐👉 🌎 am big jojo fan 🌏👈⭐
 
